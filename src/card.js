@@ -7,7 +7,7 @@ export default function Card(props){
     
     <div className="col-lg-4 col-md-6 mb-4">
         <div className="card h-100">
-         <img className="card-img-top" src="http://placehold.it/700x400" alt="" />
+         <img className="card-img-top" src="https://www.saniyaholidays.com/wp-content/uploads/2014/07/kerla1-700x400.jpg" alt="" />
           <div className="card-body">
             <h4 className="card-title">
              {props.data.name}
